@@ -1,0 +1,15 @@
+body {
+	padding: 22px;
+	font-family: Helvetica, sans-serif;
+}
+
+h2 {
+	margin-bottom: 5px;
+}
+
+#main-container {
+	max-width: 800px;
+	padding: 22px;
+	border: 1px solid #349beb;
+	background-color: #cee0ed;
+}
